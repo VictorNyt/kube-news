@@ -104,5 +104,3 @@ node_modules/
 # .tern-port
 
 *.Identifier
-src/terraform.tfstate.backup
-src/terraform.tfvars
